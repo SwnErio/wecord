@@ -11,7 +11,6 @@ public enum WecordContainerStatus {
   ORIGINAL(0, "原创"),
   FORWARD(1, "转载");
 
-
   /**
    * 索引
    */
