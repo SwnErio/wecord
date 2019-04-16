@@ -1,6 +1,7 @@
-package com.erio.service;
+package com.erio.wecord.service;
 
-import com.erio.bean.WecordContainer;
+import com.erio.wecord.bean.WecordContainer;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.erio.bean;
+package com.erio.wecord.bean;
 
 /**
  * Wecord容器状态枚举类

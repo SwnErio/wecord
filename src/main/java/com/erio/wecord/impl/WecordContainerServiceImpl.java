@@ -1,7 +1,8 @@
-package com.erio.impl;
+package com.erio.wecord.impl;
 
-import com.erio.bean.WecordContainer;
-import com.erio.service.WecordContainerService;
+import com.erio.wecord.bean.WecordContainer;
+import com.erio.wecord.service.WecordContainerService;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
@@ -11,6 +12,7 @@ import java.util.List;
  * @author Erio
  * @since 1.0
  */
+@Service
 public class WecordContainerServiceImpl implements WecordContainerService {
 
   @Override

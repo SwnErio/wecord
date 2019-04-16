@@ -1,4 +1,4 @@
-package com.erio.bean;
+package com.erio.wecord.bean;
 
 import java.io.Serializable;
 
